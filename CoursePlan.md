@@ -65,7 +65,7 @@ https://www.udemy.com/course/certified-kubernetes-application-developer/?couponC
 
 
 # 要求
-1. <font color="#40ff33">預習</font>：因為是英文授課，上課前先把該章節的文字內容讀過，較有利於上課的內容理解。可以在上課前一天的下班前，把課程文章丟到 google 翻譯為中文，快速看過，這應該是最簡單快速的預習了吧。
+1. <font color="#40ff33">預習</font>：因為是英文授課，上課前先把該章節的文字內容讀過，較有利於上課的內容理解。可以在上課前一天的下班前，把課程文章丟到 google 翻譯，翻為中文快速看過，這應該是最簡單快速的預習了吧。
 2. <font color="#40ff33">準時</font>：為了不耽誤大家工作時間，每天早上9點準時開始，一個小時內結束。可以帶早餐來跟大家分享。
 3. <font color="#ff3333">彼此分享環境，務必實作。</font>
 4. <font color="#ff3333">筆記、畫圖也可以</font>
@@ -85,7 +85,7 @@ https://www.udemy.com/course/certified-kubernetes-application-developer/?couponC
 * 把握每次分享與小點或小飲料
 * 結業小聚
 
-# 顏色參考
+# 顏色參考 - github看不到效果
 1. <font color="#40ff33">綠色 代表課程過程必經之路</font>
 2. <font color="#f4ff33">黃色 代表建議 或 optional</font>
 3. <font color="#ff3333">紅色 代表實務 或 practice</font>
