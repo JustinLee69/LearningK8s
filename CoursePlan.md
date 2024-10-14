@@ -43,8 +43,8 @@ https://www.udemy.com/course/certified-kubernetes-application-developer/?couponC
 
 | 堂 | 課程名稱 | 時長 | 備註 | 上課狀況 |
 | - | - | - | - | - |
-| I | Introduction | 11 min | | |
-| I | Kubernetes Overview | 38 min | |
+| I | Introduction | 11 min | 601 | |
+| I | Kubernetes Overview | 38 min | 601 |
 | II | Kubernetes Concepts | 29 min | |
 | II | YAML Introduction | 12 min | |
 | III | Kubernetes Concepts - Pods, ReplicaSets, Deployments | 50 min | 總長 2 hr 13 min |
